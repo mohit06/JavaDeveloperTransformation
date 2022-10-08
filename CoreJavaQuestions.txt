@@ -28,7 +28,7 @@ How default methods deals with diamond problem during multiple inheritance? What
 Why static methods were introduced in java 8?
 What are predicates ?
 What is Predicate joining?
-What are function?
+What are function interface?
 Difference between predicate and function.
 What is functional chaining? (compose and andThen)
 What is Consumer Functional Interface?
