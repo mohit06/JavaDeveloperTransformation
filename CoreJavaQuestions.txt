@@ -1,0 +1,54 @@
+Comparable(compareTo()) vs Comparator(compare())
+JVM and how it works
+what is a classloader and types of classloaders
+exception propagation
+How substring works in java and how it causes memory leaks ? How would we solve this memory leak problem?
+What is load factor in hashmap?
+How resize happens in HashMap?
+Difference between capacity and size of hashmap?
+Internal Working of HashMap in Java
+Array vs ArrayList vs LinkedList vs Vector
+Why Java is not 100% OOP?
+Why pointers are not used in java?
+What is JIT compiler in java ?
+Why String is immutable in java ?
+What is marker interface?
+Can we override private and static method in java ?
+Does finally always execute in java ?
+what are  the Methods of Object Class?
+How to make a class immutable ?
+What is singleton and how to make a class singleton ? Lazy and Early Instantiation
+What is Lambda Expression?
+What is functional interface?
+What is method reference in java? Instance Method, Static method and constructor reference
+Why use interfaces when we have abstract classes?
+What are default methods? 
+Can you use hashCode() default implementation in interface?
+How default methods deals with diamond problem during multiple inheritance? What is the solution to diamond problem ?
+Why static methods were introduced in java 8?
+What are predicates ?
+What is Predicate joining?
+What are function?
+Difference between predicate and function.
+What is functional chaining? (compose and andThen)
+What is Consumer Functional Interface?
+What is consumer chaining?
+What is supplier functional interface? get() , No chaining in Supplier 
+BiConsumer, BiFunction, BiPredicate and why no BiSupplier
+Any TriPredicate, TriFunction etc ? Ans is  no
+What are streams?
+Difference between java 8 streams and java.io.streams
+Differnce between Streams and Colections
+How to create a stream? How to create filter on a stream?
+How to map the stream objects ?
+Difference between Filter and Map?
+What are the ways we can configure that stream and process the stream?
+How to process stream using collect()?
+How to process stream using count() ?
+How to process elements using sorted()? How to process stream using sorted() in descending order?
+How to process stream using  min(), max()?
+How to process stream using foreach()?
+How to process stream using toArray()?
+How to process stream using  of()?
+What is parallel stream ?
+
