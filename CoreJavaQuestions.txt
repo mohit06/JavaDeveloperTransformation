@@ -51,4 +51,9 @@ How to process stream using foreach()?
 How to process stream using toArray()?
 How to process stream using  of()?
 What is parallel stream ?
-
+Explain Collection hierarchy.
+Why map does not extend collection interface.
+Difference between fail-fast and fail-safe iterators
+What is blocking queue?
+Synchronized vs concurrent collection
+is java pass by value or pass by reference?
