@@ -57,3 +57,5 @@ Difference between fail-fast and fail-safe iterators
 What is blocking queue?
 Synchronized vs concurrent collection
 is java pass by value or pass by reference?
+Shallow comparison vs deep comparison
+Equals and HashCode Contract
