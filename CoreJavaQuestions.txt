@@ -59,3 +59,25 @@ Synchronized vs concurrent collection
 is java pass by value or pass by reference?
 Shallow comparison vs deep comparison
 Equals and HashCode Contract
+Is restricted access to derived method allowed?
+Covariant return type?
+Hierarchy of Exception.
+Difference between Exception and Error
+Can we write try block without catch and finally ?
+Can we write any other statements between try/catch and finally block ?
+Does remaining statements in try executes after exception has occured ?
+throw vs throws
+checked vs unchecked exception in terms of call stack exception propagation
+What happens when exception is thrown by main method?
+Unreachable catch block error?
+What is multi catch block? (Java 7)
+Final vs finally vs finalize
+How collisions are handled in HashMap/LinkedHashMap/ConcurrentHashMap in Java 8 ? How get and put are changed in Java 8?
+Internal working of HashSet?
+What is multitasking and its types?
+Multi threading vs multitasking
+Which is better thread based multitasking or process based multitasking?
+What is thread?
+Types of thread in java? User Thread vs Daemon Thread
+How to make user thread a daemon thread?
+t.start() vs t.run()
