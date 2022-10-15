@@ -81,3 +81,9 @@ What is thread?
 Types of thread in java? User Thread vs Daemon Thread
 How to make user thread a daemon thread?
 t.start() vs t.run()
+What are the task of start method?
+What will happen if we dont override run method?
+Can we overload the run method?
+Can we overrite start() method in java ?
+Can we restart the same thread again?
+How to set name of the thread?
