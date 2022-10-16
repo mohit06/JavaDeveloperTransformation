@@ -87,3 +87,16 @@ Can we overload the run method?
 Can we overrite start() method in java ?
 Can we restart the same thread again?
 How to set name of the thread?
+What is concurrentHashMap and how it works internally?
+What is segment locking?
+How to make a List as readOnly List ? Collections.unmodifiableList(ArrayList)
+What is Java Reflection API?
+Advantages of Reflection API
+Disadvantages of Reflection API.
+What is the difference between Serializable and Externalizable interface
+What is Transient
+Object level vs class level locks
+What is Synchronization?
+When can an object reference be cast to interface reference?
+What restrictions are placed on method overloading ?
+What restrictions are placed on method overriding ?
