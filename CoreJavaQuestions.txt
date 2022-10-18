@@ -100,3 +100,11 @@ What is Synchronization?
 When can an object reference be cast to interface reference?
 What restrictions are placed on method overloading ?
 What restrictions are placed on method overriding ?
+How does Java serialization work? (Uses reflection) (writeObject())
+How does java deserialization works? (Uses reflection, no constructor is called, readObject())
+What is externalization? (Customized Serialization mechanism) (ReadExternal(), WriteExternale()) Not a marker interface, No args constructor is required.
+Serializable vs Externalizable
+Deserializable Vulnerability?
+How to prevent Deserialization vulnerability?
+Inheritance rules with Serialization and Deserialization
+Static Control flow vs Instance control flow
